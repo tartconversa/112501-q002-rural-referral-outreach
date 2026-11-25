@@ -1,0 +1,3 @@
+visit,token,township,condition,visit_date,outcome
+V1,p-a,Q1,cardiology,2025-08-01,referral
+V2,p-b,Q2,diabetes,2025-08-01,managed
